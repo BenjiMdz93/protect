@@ -1,0 +1,49 @@
+{
+
+    "general": { 
+        "yes": "",
+        "no": "",
+        "warning": " ",
+        "warning2": "<",
+        "on": "",
+        "off": " ",
+        "doc": "",
+        "parametres": "",
+        "members": "",
+        "moderation": "",
+        "administration": "",
+        "server": "",
+        "github": "",
+        "developper": "",
+        "folder": "  ",
+        "home": "",
+        "channel": "",
+        "lockedchannel": "",
+        "description": ""
+    },
+         "voice": { 
+         "unmuted": " ",
+         "muted": "",
+         "undeafened": "",
+         "deafened": "",
+          "voice": ""
+    },
+        "state": { 
+        "online": "",
+        "dnd": "",
+        "idle": "",
+        "offline": ""
+},
+    "fun": { 
+    "gun": "",
+    "coin": "",
+    "boost": "",
+    "bot": "",
+    "crache": ""
+ }
+}
+
+
+
+
+
